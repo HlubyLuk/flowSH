@@ -1,0 +1,2 @@
+[alias]
+	startFeature = ! flowScripts/startFeature.sh
