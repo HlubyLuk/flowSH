@@ -1,4 +1,5 @@
 [alias]
+	changeLog = ! flowScripts/changeLog.sh
 	startFeature = ! flowScripts/startFeature.sh
 	init = ! flowScripts/init.sh
 	finishFeature = ! flowScripts/finishFeature.sh
